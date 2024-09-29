@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Nhận định bóng đá hôm nay phân tích chuẩn xác từ chuyên gia
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nhận định bóng đá <https://keolive.com/keolive-247-nhan-dinh-bong-da.html>`_ hôm nay, ngày mai chính xác. Chuyên gia phân tích, soi kèo bóng đá giúp người chơi có nhiều thông tin hữu ích nhất.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ
 
-.. note::
+Địa chỉ: 88 Đường Văn Tiến Dũng, Minh Khai, Bắc Từ Liêm, Hà Nội
 
-   This project is under active development.
+Email: nhandinh@keolive.com
 
-Contents
---------
+Số điện thoại: 0971983133
 
-.. toctree::
+Website: https://keolive.com/keolive-247-nhan-dinh-bong-da.html 
 
-   usage
-   api
+#nhandinhbongda #tintucbongda #keolivenhandinh #chuyengianhandinh
